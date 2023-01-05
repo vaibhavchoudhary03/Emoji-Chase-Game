@@ -1,1 +1,2 @@
 # Emoji-Chase-Game
+Working in collaboration with Navya Aenugu, we brainstormed and created a game utilizing PyGame. This game, Emoji Chase, utilizes uvage.py (the original work of Luther Tychonievich), to import variables and conditionals. In our code, Emoji_Chase.py, we implemented these variables and triggered the conditionals alongside function writing. We utilized keyboard input requests, timers, levels, lives, and an accumulating score chart to maximize user apeal.
